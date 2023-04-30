@@ -1,3 +1,15 @@
 [submodule "tf-data-analysis-hyp-task1-example"]
 	path = tf-data-analysis-hyp-task1-example
 	url = https://github.com/AnastasiaValova/tf-data-analysis-hyp-task1-example
+[submodule "tf-data-analysis-hyp-task2-example"]
+	path = tf-data-analysis-hyp-task2-example
+	url = https://github.com/AnastasiaValova/tf-data-analysis-hyp-task2-example
+[submodule "tf-data-analysis-hyp-task3-example"]
+	path = tf-data-analysis-hyp-task3-example
+	url = https://github.com/AnastasiaValova/tf-data-analysis-hyp-task3-example
+[submodule "tf-data-analysis-stat-task2-example"]
+	path = tf-data-analysis-stat-task2-example
+	url = https://github.com/AnastasiaValova/tf-data-analysis-stat-task2-example
+[submodule "tf-data-analysis-stat-task1-example"]
+	path = tf-data-analysis-stat-task1-example
+	url = https://github.com/AnastasiaValova/tf-data-analysis-stat-task1-example
